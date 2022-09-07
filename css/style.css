@@ -20,5 +20,8 @@
     .position img{
         margin-bottom: 15px;
     }
+    .hide{
+        display: none;
+    }
    
   }
