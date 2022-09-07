@@ -2,3 +2,23 @@
     background-color: black;
     opacity: 0.7;
 }
+
+.custom-color{
+    color: #289BDE !important;
+}
+.fav-icon i{
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 24px;
+}
+@media screen and (max-width: 576px) {
+    .position{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .position img{
+        margin-bottom: 15px;
+    }
+   
+  }
